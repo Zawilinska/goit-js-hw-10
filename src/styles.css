@@ -1,0 +1,28 @@
+body {
+  margin: 40px 80px;
+  color: black;
+}
+
+.breed-select {
+  font-style: Times;
+  max-width: 400px;
+  max-height: 400px;
+}
+
+.hidden {
+  display: none;
+}
+
+.postImage {
+  max-width: 400px;
+  max-height: 400px;
+  padding-top: 30px;
+  margin: 30px auto;
+  display: block;
+}
+.loader {
+  font-style: Times;
+  text-align: center;
+  margin-top: 100px;
+  font-weight: 700;
+}
